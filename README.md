@@ -45,6 +45,15 @@ Using TextBlob to detect Polarity of normalized text that ranges from -1 (Strong
 Autocorrects misspelt words/typos present in the text as a part of text normalization.
 
 
+
+## Authors
+* **Krishna Alagiri** - [K-Kraken](https://github.com/K-Kraken/)
+* **Vignesh S** - [Vignesh0404](https://github.com/Vignesh0404/)
+* **Ajay Krishnan** - [ajaykrishnan23](https://github.com/ajaykrishnan23/)
+* **Anan Mohamed** - [ananmohamed786](https://github.com/ananmohamed786/)
+* **Shravan Deep** - [Shravandheep4](https://github.com/Shravandheep4/)
+
+
 <br><br>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/axenhammer"> Axemhammer</a>
